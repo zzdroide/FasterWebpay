@@ -3,6 +3,7 @@
 // @version     1
 // @author      zzdroide
 // @homepageURL https://github.com/zzdroide/FasterWebpay
+// @downloadURL https://0.0.0.0
 // @match       https://webpay3g.transbank.cl/webpayserver/*
 // @run-at      document-end
 // @require     https://cdn.jsdelivr.net/npm/@violentmonkey/dom@2

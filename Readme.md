@@ -16,3 +16,5 @@ This userscript auto-clicks everything so you can use the page with just 23 keys
 As this script targets specifically a web page in which you enter your debit/credit card data, the code has been optimized for legibility so you can review it before installing it.
 
 It has one `@require` from violentmonkey themselves, for simpler code as recommended in their [guide](https://violentmonkey.github.io/guide/observing-dom/).
+
+`// @downloadURL` links to 0.0.0.0 to disable automatic updates even if the script is installed from URL.
